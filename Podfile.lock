@@ -1,10 +1,13 @@
 PODS:
   - JLRoutes (1.2)
+  - JLRoutes-EasyRouting (0.9):
+    - JLRoutes (~> 1.2)
 
 DEPENDENCIES:
-  - JLRoutes (~> 1.2)
+  - JLRoutes-EasyRouting (~> 0.9)
 
 SPEC CHECKSUMS:
   JLRoutes: 890517ad0559502bdcee08fa0951dde2391627f4
+  JLRoutes-EasyRouting: 51b981f19e1b0155534f1ab17d33f8f95fc134a1
 
 COCOAPODS: 0.19.1

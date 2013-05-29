@@ -12,3 +12,9 @@
 #define COCOAPODS_VERSION_MINOR_JLRoutes 2
 #define COCOAPODS_VERSION_PATCH_JLRoutes 0
 
+// JLRoutes-EasyRouting
+#define COCOAPODS_POD_AVAILABLE_JLRoutes_EasyRouting
+#define COCOAPODS_VERSION_MAJOR_JLRoutes_EasyRouting 0
+#define COCOAPODS_VERSION_MINOR_JLRoutes_EasyRouting 9
+#define COCOAPODS_VERSION_PATCH_JLRoutes_EasyRouting 0
+
